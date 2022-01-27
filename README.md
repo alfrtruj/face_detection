@@ -1,2 +1,2 @@
-# face_detection
-Face detection 
+# Face Detection
+Face detection machine vision
