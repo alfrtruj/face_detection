@@ -21,7 +21,7 @@ while True:
 
     if results.detections:
         for id, detection in enumerate(results.detections):
-            #mpDraw.draw_detection(img, detection)
+            #mpDraw.draw_detection(img, detection) # return box and landmarks (no accurate)
             #print(id, detection)
             #print(detection.score)
             #print(detection.location_data.relative_bounding_box)
